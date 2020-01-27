@@ -548,7 +548,8 @@ function updateEmissionsFilter() {
  * @returns
  */
 function decideIfInVisibleCluster(feature) {
-    let minCOavailability = polyolOutput.value * 15 / 50000
+    /* used to be 15 / 50000 as of Jan 27 */
+    let minCOavailability = polyolOutput.value * 13.5 / 50000
     let activePlantTypes = []
     if (chemParkFilterButton.classList.contains('is-info')) activePlantTypes.push('chemical parks')
     if (polyolFilterButton.classList.contains('is-info')) activePlantTypes.push('polyol plants')
