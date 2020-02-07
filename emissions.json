@@ -1,6 +1,5 @@
 {
   "stats": {
-    "Description": "BEFORE CHANGING: PLEASE NOTE: the location for 'FJERNVARME FYN FYNSVÆRKET A/S' has to be changed from (9.80973039123284°, 5.33467590910096°) to 10.404647, 55.428245",
     "totalMax": 37.6,
     "max": {
       "CO, AIR": 0.185,
@@ -9,25 +8,26 @@
     "totals": {
       "CO2, AIR": {
         "Extraction of natural gas": 5.21,
-        "Manufacture of refined petroleum products": 141.717,
-        "Manufacture of other inorganic basic chemicals": 15.947999999999999,
+        "Manufacture of refined petroleum products": 142.52700000000002,
+        "Manufacture of other inorganic basic chemicals": 16.896,
         "Manufacture of fertilisers and nitrogen compounds": 24.802,
-        "Manufacture of cement": 126.25199999999998,
-        "Manufacture of lime and plaster": 21.287,
-        "Manufacture of basic iron and steel and of ferro-alloys": 167.86599999999999,
-        "Production of electricity": 988.2660000000001
+        "Manufacture of cement": 126.99399999999997,
+        "Manufacture of lime and plaster": 21.42,
+        "Manufacture of basic iron and steel and of ferro-alloys": 143.886,
+        "Production of electricity": 988.334
       },
       "CO, AIR": {
         "Extraction of natural gas": 0.00077,
         "Manufacture of refined petroleum products": 0.058138,
         "Manufacture of other inorganic basic chemicals": 0.093351,
         "Manufacture of fertilisers and nitrogen compounds": 0.004443,
-        "Manufacture of cement": 0.26996600000000004,
+        "Manufacture of cement": 0.27330400000000005,
         "Manufacture of lime and plaster": 0.10318699999999996,
-        "Manufacture of basic iron and steel and of ferro-alloys": 1.9926569999999995,
-        "Production of electricity": 0.1857680000000001
+        "Manufacture of basic iron and steel and of ferro-alloys": 1.9966399999999995,
+        "Production of electricity": 0.1858980000000001
       }
-    }
+    },
+    "Description": "BEFORE CHANGING: PLEASE NOTE: the location for 'FJERNVARME FYN FYNSVÆRKET A/S' has to be changed from (9.80973039123284°, 5.33467590910096°) to 10.404647, 55.428245"
   },
   "CO2, AIR": {
     "type": "FeatureCollection",
@@ -591,7 +591,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 8335.196245392268,
-              "Port Of Antwerp": 4121.672823339237,
+              "Port Of Antwerp": 4121.672823339238,
               "Tessenderloo": 56518.863958480535,
               "Port of Rotterdam": 78085.8109976069,
               "Valuepark Terneuzen": 36885.721288215354
@@ -861,8 +861,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.4773151583894,
-            48.7919923414074
+            11.4729236246672,
+            48.7893605962044
           ]
         },
         "properties": {
@@ -875,8 +875,8 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Industrial Park Gersthofen": 58544.12237412694,
-              "Basell Polyolefine": 17370.71153727132
+              "Industrial Park Gersthofen": 58109.324469418585,
+              "Basell Polyolefine": 17626.040053058645
             }
           }
         },
@@ -1004,30 +1004,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -3.6859,
-            56.0071
-          ]
-        },
-        "properties": {
-          "CountryName": "United Kingdom",
-          "FacilityName": "INEOS Chemicals Grangemouth Ltd",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=176159",
-          "ReportingYear": "2012",
-          "MTonnes": 0.888,
-          "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
-          "PollutantName": "CO2, AIR",
-          "distances": {
-            "chemical parks": {
-              "Grangemouth": 2310.4171597484096
-            }
-          }
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -3.68557,
             56.0201
           ]
@@ -1043,30 +1019,6 @@
           "distances": {
             "chemical parks": {
               "Grangemouth": 2584.4815668464507
-            }
-          }
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -3.69084,
-            56.014
-          ]
-        },
-        "properties": {
-          "CountryName": "United Kingdom",
-          "FacilityName": "INEOS Infrastructure (Grangemouth) Ltd",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=176527",
-          "ReportingYear": "2012",
-          "MTonnes": 0.592,
-          "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
-          "PollutantName": "CO2, AIR",
-          "distances": {
-            "chemical parks": {
-              "Grangemouth": 2041.1523396731427
             }
           }
         },
@@ -1454,8 +1406,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            12.8324911384319,
-            48.1949765667036
+            12.8364904939621,
+            48.1930004860415
           ]
         },
         "properties": {
@@ -1468,8 +1420,8 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "GENDORF Chemical Park": 8428.375147110595,
-              "Chemiepark Trostberg": 28389.553732481778
+              "GENDORF Chemical Park": 8673.5527291135,
+              "Chemiepark Trostberg": 28460.22060650227
             }
           }
         },
@@ -1798,7 +1750,7 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Fos-Lavera-Berre": 24773.681309335887
+              "Fos-Lavera-Berre": 24773.68130933589
             },
             "polyol plants": {
               "CovestroFrance SNC": 26778.378663889172
@@ -1918,6 +1870,35 @@
           "MTonnes": 2.41,
           "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
           "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            1.227106,
+            41.173678
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "REPSOL REFINERIA TARRAGONA",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=6897",
+          "ReportingYear": "2017",
+          "MTonnes": 2.29,
+          "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.000877,
+          "distances": {
+            "chemical parks": {
+              "AEQT - Tarragona Chemical Cluster": 6157.674639504362
+            },
+            "polyol plants": {
+              "Dow Chemical Iberica S.A.": 8526.583734350666,
+              "Repsol Quinica S.A.": 1516.7776153339273
+            }
+          }
         },
         "type": "Feature"
       },
@@ -2296,7 +2277,7 @@
               "Chempark Dormagen": 53312.42247370838,
               "Chempark Leverkusen Currenta": 58652.12760215986,
               "Industrial Park Dorsten-Marl": 16593.848449038338,
-              "Industriepark Solvay Rheinberg": 31794.243883887855,
+              "Industriepark Solvay Rheinberg": 31794.24388388786,
               "Krefeld-Uerdingen Currenta": 31681.672043281946,
               "Marl Chemical Park": 16155.045989813967,
               "NUON Industriepark Oberbruch": 82089.73343246497,
@@ -2698,7 +2679,7 @@
               "Chemie- und Industriepark Zeitz": 28251.35937173326,
               "InfraLeuna GmbH": 3253.5265905487076,
               "Schkopau": 10631.760068514874,
-              "Solvay's Industrial Park in Bernburg": 58725.79232357769,
+              "Solvay's Industrial Park in Bernburg": 58725.792323577705,
               "Industrial Park Bayer Bitterfeld": 44629.239423570725,
               "DOW Olefinverbund Böhlen": 26841.952781868764
             }
@@ -2875,7 +2856,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 41020.35032624217,
-              "Port Of Antwerp": 51447.03855412509,
+              "Port Of Antwerp": 51447.0385541251,
               "Port of Rotterdam": 63018.07175917291,
               "Valuepark Terneuzen": 14042.982929909407
             },
@@ -3749,6 +3730,26 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -4.038539,
+            43.363203
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "SOLVAY QUIMICA (FÁBRICA DE TORRELAVEGA)",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=8727",
+          "ReportingYear": "2017",
+          "MTonnes": 0.948,
+          "NACEMainEconomicActivityName": "Manufacture of other inorganic basic chemicals",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00778
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             5.4,
             47.03
           ]
@@ -4410,7 +4411,7 @@
               "Industriepark Premnitz": 74463.07478150165,
               "InfraLeuna GmbH": 73112.56859695782,
               "Schkopau": 67887.0073033129,
-              "Solvay's Industrial Park in Bernburg": 57140.89171709648,
+              "Solvay's Industrial Park in Bernburg": 57140.891717096485,
               "Industrial Park Bayer Bitterfeld": 31340.41829933958,
               "DOW Olefinverbund Böhlen": 78173.1787489464
             }
@@ -4462,7 +4463,7 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Port Jérôme": 22649.7072684813,
+              "Port Jérôme": 22649.707268481296,
               "Port of Le Havre": 5314.476777809495,
               "Port of Rouen": 61802.72137014708
             }
@@ -5073,8 +5074,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.99932,
-            41.407999
+            1.999262,
+            41.408723
           ]
         },
         "properties": {
@@ -5088,11 +5089,11 @@
           "coAmount": 0.000515,
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 70631.87303233286
+              "AEQT - Tarragona Chemical Cluster": 70663.75854468369
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 75731.67211383961,
-              "Repsol Quinica S.A.": 69407.05380226274
+              "Dow Chemical Iberica S.A.": 75763.16799283175,
+              "Repsol Quinica S.A.": 69430.75092728656
             }
           }
         },
@@ -5142,8 +5143,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.663095,
-            41.313945
+            1.663019,
+            41.314665
           ]
         },
         "properties": {
@@ -5157,13 +5158,32 @@
           "coAmount": 0.00914,
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 41004.881485216174
+              "AEQT - Tarragona Chemical Cluster": 41041.44322290136
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 46061.9534953839,
-              "Repsol Quinica S.A.": 39460.857873852
+              "Dow Chemical Iberica S.A.": 46097.25052663855,
+              "Repsol Quinica S.A.": 39483.484090126796
             }
           }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.189981,
+            42.882946
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "CEMENTOS PORTLAND VALDERRIVAS, S.A.-FABRICA CEMENTO",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=7182",
+          "ReportingYear": "2017",
+          "MTonnes": 0.291,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO2, AIR"
         },
         "type": "Feature"
       },
@@ -5190,8 +5210,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.545404,
-            40.578213
+            0.545266,
+            40.578911
           ]
         },
         "properties": {
@@ -5205,11 +5225,11 @@
           "coAmount": 0.000764,
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 84284.84931305569
+              "AEQT - Tarragona Chemical Cluster": 84237.27945030035
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 79589.60938369564,
-              "Repsol Quinica S.A.": 88426.30143899772
+              "Dow Chemical Iberica S.A.": 79540.51017357057,
+              "Repsol Quinica S.A.": 88374.19373350103
             }
           }
         },
@@ -5363,26 +5383,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            3,
-            47.09
-          ]
-        },
-        "properties": {
-          "CountryName": "France",
-          "FacilityName": "CIMENTS CALCIA",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5333",
-          "ReportingYear": "2017",
-          "MTonnes": 0.335,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO2, AIR",
-          "coAmount": 0.00058
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             4.59,
             43.77
           ]
@@ -5404,6 +5404,26 @@
               "CovestroFrance SNC": 43573.98070758982
             }
           }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            3,
+            47.09
+          ]
+        },
+        "properties": {
+          "CountryName": "France",
+          "FacilityName": "CIMENTS CALCIA",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5333",
+          "ReportingYear": "2017",
+          "MTonnes": 0.335,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00058
         },
         "type": "Feature"
       },
@@ -5607,7 +5627,7 @@
           "coAmount": 0.00142,
           "distances": {
             "chemical parks": {
-              "Schwechat": 63469.66133535374
+              "Schwechat": 63469.661335353725
             },
             "polyol plants": {
               "MOL Petrochemicals Plc.": 37076.96154428269
@@ -6020,7 +6040,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "Ciments Calcia - Site d'Airvault",
+          "FacilityName": "Ciments Calcia - Site dAirvault",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=4907",
           "ReportingYear": "2017",
           "MTonnes": 0.562,
@@ -6206,9 +6226,9 @@
           "coAmount": 0.00269,
           "distances": {
             "chemical parks": {
-              "BASF SE. Ludwigshafen": 31022.19395327602,
-              "Industriepark Höchst": 64624.794422643965,
-              "Wolfgang Industrial Park": 87920.37108874123,
+              "BASF SE. Ludwigshafen": 31022.19395327601,
+              "Industriepark Höchst": 64624.79442264396,
+              "Wolfgang Industrial Park": 87920.37108874122,
               "Evonik Site Darmstadt/Weiterstadt": 52220.91941845503,
               "Kalle-Albert Industrial Park": 50626.929094924024,
               "Allessa GmbH": 78530.5990516914,
@@ -7286,7 +7306,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "Holcim Haut Rhin - Usine d'Altkirch",
+          "FacilityName": "Holcim Haut Rhin - Usine dAltkirch",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=4548",
           "ReportingYear": "2017",
           "MTonnes": 0.299,
@@ -7531,7 +7551,7 @@
             "chemical parks": {
               "SOLVAY Acetow GmbH": 71278.31851039223,
               "Infrapark Baselland": 39239.65185591615,
-              "Solvay Ind.park": 21466.86257109128
+              "Solvay Ind.park": 21466.862571091275
             }
           }
         },
@@ -7668,7 +7688,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "LAFARGE - USINE DU VAL D'AZERGUES",
+          "FacilityName": "LAFARGE - USINE DU VAL DAZERGUES",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=3020",
           "ReportingYear": "2017",
           "MTonnes": 0.274,
@@ -8228,7 +8248,7 @@
               "InfraLeuna GmbH": 24682.12193290852,
               "Schkopau": 26208.790487939383,
               "Solvay's Industrial Park in Bernburg": 59125.6404498401,
-              "Industrial Park Bayer Bitterfeld": 61374.41487794647,
+              "Industrial Park Bayer Bitterfeld": 61374.414877946474,
               "DOW Olefinverbund Böhlen": 49555.1517254437
             }
           }
@@ -8251,7 +8271,7 @@
           "MTonnes": 0.539,
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO2, AIR",
-          "coAmount": 0.000572,
+          "coAmount": 0.00104,
           "distances": {
             "chemical parks": {
               "BASF SE. Ludwigshafen": 54734.65733113819,
@@ -8695,31 +8715,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            9.73046874793038,
-            48.3319862835618
-          ]
-        },
-        "properties": {
-          "CountryName": "Germany",
-          "FacilityName": "Schwenk Zement KG",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2516",
-          "ReportingYear": "2017",
-          "MTonnes": 0.712,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO2, AIR",
-          "coAmount": 0.000808,
-          "distances": {
-            "chemical parks": {
-              "Industrial Park Gersthofen": 85734.11006478535
-            }
-          }
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             10.1624676707787,
             48.6536868285267
           ]
@@ -8736,6 +8731,31 @@
           "distances": {
             "chemical parks": {
               "Industrial Park Gersthofen": 57656.55201892961
+            }
+          }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.73046874793038,
+            48.3319862835618
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "Schwenk Zement KG",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2516",
+          "ReportingYear": "2017",
+          "MTonnes": 0.712,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.000808,
+          "distances": {
+            "chemical parks": {
+              "Industrial Park Gersthofen": 85734.11006478535
             }
           }
         },
@@ -8767,7 +8787,7 @@
               "InfraLeuna GmbH": 57426.86218068524,
               "Schkopau": 50115.16058375455,
               "Solvay's Industrial Park in Bernburg": 1974.6318722309832,
-              "Industrial Park Bayer Bitterfeld": 40934.516337753295,
+              "Industrial Park Bayer Bitterfeld": 40934.5163377533,
               "DOW Olefinverbund Böhlen": 81607.57621925807
             }
           }
@@ -9442,6 +9462,26 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            14.533667,
+            46.849888
+          ]
+        },
+        "properties": {
+          "CountryName": "Austria",
+          "FacilityName": "w&p Zement GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=301655",
+          "ReportingYear": "2017",
+          "MTonnes": 0.451,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00287
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             16.771682269444444,
             49.21641098888889
           ]
@@ -9561,6 +9601,25 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=7074",
           "ReportingYear": "2017",
           "MTonnes": 0.11,
+          "NACEMainEconomicActivityName": "Manufacture of lime and plaster",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.63725,
+            42.69604
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "CAL INDUSTRIAL, S.L",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=8990",
+          "ReportingYear": "2017",
+          "MTonnes": 0.133,
           "NACEMainEconomicActivityName": "Manufacture of lime and plaster",
           "PollutantName": "CO2, AIR"
         },
@@ -10109,8 +10168,8 @@
           "distances": {
             "chemical parks": {
               "InfraLeuna GmbH": 94289.9119258215,
-              "Schkopau": 89597.10604903137,
-              "Solvay's Industrial Park in Bernburg": 63902.25087237771
+              "Schkopau": 89597.10604903138,
+              "Solvay's Industrial Park in Bernburg": 63902.250872377714
             }
           }
         },
@@ -10330,7 +10389,7 @@
               "Chempark Dormagen": 24038.79702649527,
               "Chempark Leverkusen Currenta": 26392.45996646885,
               "Industrial Park Dorsten-Marl": 48738.99908959786,
-              "Industriepark Solvay Rheinberg": 47696.626686922595,
+              "Industriepark Solvay Rheinberg": 47696.6266869226,
               "Krefeld-Uerdingen Currenta": 29776.62549779105,
               "Marl Chemical Park": 48343.874512500035,
               "NUON Industriepark Oberbruch": 66250.59632732924,
@@ -10768,7 +10827,7 @@
               "Chempark Dormagen": 78954.3901233491,
               "Chempark Leverkusen Currenta": 73064.89398065775,
               "Industrial Park Dorsten-Marl": 61203.29566572052,
-              "Industriepark Solvay Rheinberg": 89389.17880928254,
+              "Industriepark Solvay Rheinberg": 89389.17880928256,
               "Krefeld-Uerdingen Currenta": 81738.55442283771,
               "Marl Chemical Park": 61322.22384126247,
               "Henkel AG & Co. KGaA": 73826.18950569519,
@@ -10830,7 +10889,7 @@
               "Chempark Dormagen": 58959.68938323282,
               "Chempark Leverkusen Currenta": 55129.686999162615,
               "Industrial Park Dorsten-Marl": 45863.563264088814,
-              "Industriepark Solvay Rheinberg": 68961.39727436272,
+              "Industriepark Solvay Rheinberg": 68961.39727436274,
               "Krefeld-Uerdingen Currenta": 59943.09314338872,
               "Marl Chemical Park": 45830.29415477056,
               "Henkel AG & Co. KGaA": 52715.000711837136,
@@ -11243,8 +11302,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            12.1338669114199,
-            49.0340694139733
+            12.1387146232204,
+            49.0299521601137
           ]
         },
         "properties": {
@@ -11257,7 +11316,7 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Basell Polyolefine": 43648.903234604244
+              "Basell Polyolefine": 43584.36835116785
             }
           }
         },
@@ -11594,9 +11653,9 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 94967.40470967391,
-              "Port Of Antwerp": 84355.76253481732,
-              "Tessenderloo": 31989.111594444646,
-              "Chemiepark Knapsack": 95328.59917644018,
+              "Port Of Antwerp": 84355.76253481733,
+              "Tessenderloo": 31989.11159444465,
+              "Chemiepark Knapsack": 95328.59917644021,
               "Chempark Dormagen": 94334.608043676,
               "Krefeld-Uerdingen Currenta": 94662.56648444993,
               "NUON Industriepark Oberbruch": 46902.96583540831,
@@ -11606,7 +11665,7 @@
               "Chemelot": 20997.896086744764
             },
             "polyol plants": {
-              "BASF Antwerpen N.V.": 97882.04442860714,
+              "BASF Antwerpen N.V.": 97882.04442860716,
               "Covestro N.V.": 90825.70919974257,
               "Covestro Deutschland AG": 95344.15779619987
             }
@@ -11792,7 +11851,7 @@
           "FacilityName": "ArcelorMittal Bremen GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=43721",
           "ReportingYear": "2017",
-          "MTonnes": 26.6,
+          "MTonnes": 2.66,
           "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
           "PollutantName": "CO2, AIR",
           "coAmount": 0.0521,
@@ -12072,7 +12131,7 @@
         },
         "properties": {
           "CountryName": "Belgium",
-          "FacilityName": "CARSID (Centrale d'énergie)",
+          "FacilityName": "CARSID (Centrale dénergie)",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=15102",
           "ReportingYear": "2008",
           "MTonnes": 0.983,
@@ -12171,7 +12230,7 @@
               "Chempark Dormagen": 38736.787355126246,
               "Chempark Leverkusen Currenta": 48725.234825478714,
               "Industrial Park Dorsten-Marl": 37777.2937708768,
-              "Industriepark Solvay Rheinberg": 19506.857950555073,
+              "Industriepark Solvay Rheinberg": 19506.857950555077,
               "Krefeld-Uerdingen Currenta": 7552.631000806265,
               "Marl Chemical Park": 37258.22025213792,
               "NUON Industriepark Oberbruch": 58161.39527193637,
@@ -12370,7 +12429,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "FERROPEM - Usine d'Anglefort",
+          "FacilityName": "FERROPEM - Usine dAnglefort",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2903",
           "ReportingYear": "2017",
           "MTonnes": 0.24,
@@ -12734,8 +12793,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.8593505316353,
-            48.5121188672337
+            10.8601775008526,
+            48.5106659892612
           ]
         },
         "properties": {
@@ -12749,8 +12808,8 @@
           "coAmount": 0.00132,
           "distances": {
             "chemical parks": {
-              "Industrial Park Gersthofen": 7669.933587861628,
-              "Basell Polyolefine": 68162.7744895712
+              "Industrial Park Gersthofen": 7499.803370056421,
+              "Basell Polyolefine": 68173.06391800717
             }
           }
         },
@@ -13421,7 +13480,7 @@
               "Chempark Dormagen": 50183.61247505023,
               "Chempark Leverkusen Currenta": 52935.07902877899,
               "Industrial Park Dorsten-Marl": 24059.31922510221,
-              "Industriepark Solvay Rheinberg": 42147.8540752576,
+              "Industriepark Solvay Rheinberg": 42147.85407525761,
               "Krefeld-Uerdingen Currenta": 36875.18970726848,
               "Marl Chemical Park": 23788.35087903126,
               "NUON Industriepark Oberbruch": 85322.77164875163,
@@ -13594,11 +13653,11 @@
           "CountryName": "Austria",
           "FacilityName": "voestalpine Stahl GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5868",
-          "ReportingYear": "2015",
-          "MTonnes": 8.64,
+          "ReportingYear": "2016",
+          "MTonnes": 8.6,
           "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
           "PollutantName": "CO2, AIR",
-          "coAmount": 0.0712,
+          "coAmount": 0.076,
           "distances": {
             "chemical parks": {
               "Chemiepark Linz": 1100.540425955738
@@ -13764,7 +13823,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 82484.07539410045,
-              "Port Of Antwerp": 84575.69047946676,
+              "Port Of Antwerp": 84575.69047946678,
               "Valuepark Terneuzen": 59339.28786574862
             },
             "polyol plants": {
@@ -13848,6 +13907,25 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=12834",
           "ReportingYear": "2017",
           "MTonnes": 0.137,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -5.7864,
+            54.845
+          ]
+        },
+        "properties": {
+          "CountryName": "United Kingdom",
+          "FacilityName": "AES Ballylumford",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=32954",
+          "ReportingYear": "2017",
+          "MTonnes": 0.97,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR"
         },
@@ -14015,7 +14093,7 @@
             },
             "polyol plants": {
               "Dow Chemical Iberica S.A.": 81480.71332678937,
-              "Repsol Quinica S.A.": 75928.64420358348
+              "Repsol Quinica S.A.": 75928.64420358346
             }
           }
         },
@@ -14519,7 +14597,7 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Port Jérôme": 37239.270879811076,
+              "Port Jérôme": 37239.27087981107,
               "Port of Le Havre": 63401.96486959459,
               "Port of Rouen": 12780.323613003153
             }
@@ -14682,7 +14760,7 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Solvay's Industrial Park in Bernburg": 98662.03038711715
+              "Solvay's Industrial Park in Bernburg": 98662.03038711716
             }
           }
         },
@@ -14712,7 +14790,7 @@
               "Chempark Leverkusen Currenta": 75415.9615233064,
               "Industrial Park Dorsten-Marl": 27269.45571121423,
               "IndustriePark Lingen": 96726.07132689269,
-              "Industriepark Solvay Rheinberg": 61789.19616089655,
+              "Industriepark Solvay Rheinberg": 61789.19616089656,
               "Krefeld-Uerdingen Currenta": 62122.951103690015,
               "Marl Chemical Park": 27528.22683483537,
               "Henkel AG & Co. KGaA": 65739.3849500079,
@@ -15004,7 +15082,7 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Huelva": 8679.374217959994
+              "Huelva": 8679.374217959992
             }
           }
         },
@@ -15116,26 +15194,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.279673,
-            39.677606
-          ]
-        },
-        "properties": {
-          "CountryName": "Spain",
-          "FacilityName": "CENTRAL DE CICLO COMBINADO DE SAGUNTO (NATURGY)",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24934",
-          "ReportingYear": "2017",
-          "MTonnes": 1.03,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR",
-          "coAmount": 0.000511
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             0.865002,
             40.960084
           ]
@@ -15154,7 +15212,7 @@
             },
             "polyol plants": {
               "Dow Chemical Iberica S.A.": 31498.133489856315,
-              "Repsol Quinica S.A.": 39157.160648820536
+              "Repsol Quinica S.A.": 39157.16064882053
             }
           }
         },
@@ -15338,8 +15396,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.1605,
-            41.33787
+            2.160452,
+            41.338591
           ]
         },
         "properties": {
@@ -15352,11 +15410,11 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 80216.81876751056
+              "AEQT - Tarragona Chemical Cluster": 80236.82116748558
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 85313.3507370189,
-              "Repsol Quinica S.A.": 80189.80666070827
+              "Dow Chemical Iberica S.A.": 85333.74821095029,
+              "Repsol Quinica S.A.": 80202.28794214565
             }
           }
         },
@@ -15366,8 +15424,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.230815,
-            41.420462
+            2.230771,
+            41.421186
           ]
         },
         "properties": {
@@ -15380,11 +15438,11 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 88820.63631618096
+              "AEQT - Tarragona Chemical Cluster": 88847.10307235442
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 93934.61041059332,
-              "Repsol Quinica S.A.": 88149.92057527826
+              "Dow Chemical Iberica S.A.": 93961.1009436923,
+              "Repsol Quinica S.A.": 88169.71895338701
             }
           }
         },
@@ -15394,8 +15452,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.229,
-            41.420108
+            2.228956,
+            41.420832
           ]
         },
         "properties": {
@@ -15409,11 +15467,11 @@
           "coAmount": 0.000879,
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 88665.4896369232
+              "AEQT - Tarragona Chemical Cluster": 88691.97479809201
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 93779.47019451275,
-              "Repsol Quinica S.A.": 87993.66425165426
+              "Dow Chemical Iberica S.A.": 93805.97825238366,
+              "Repsol Quinica S.A.": 88013.46970159408
             }
           }
         },
@@ -15423,8 +15481,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.231585,
-            41.42008
+            2.231541,
+            41.420804
           ]
         },
         "properties": {
@@ -15437,11 +15495,11 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 88864.54465066198
+              "AEQT - Tarragona Chemical Cluster": 88890.95652108332
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 93978.49629127847,
-              "Repsol Quinica S.A.": 88199.12231215664
+              "Dow Chemical Iberica S.A.": 94004.93488225655,
+              "Repsol Quinica S.A.": 88218.86750414064
             }
           }
         },
@@ -15605,8 +15663,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -6.5325,
-            42.836667
+            -6.532453,
+            42.836796
           ]
         },
         "properties": {
@@ -18079,10 +18137,30 @@
           "CountryName": "Denmark",
           "FacilityName": "DONG ENERGY POWER A/S",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=9603",
-          "ReportingYear": "2016",
-          "MTonnes": 0.953,
+          "ReportingYear": "2017",
+          "MTonnes": 1.05,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.4837047156213,
+            55.6021225246373
+          ]
+        },
+        "properties": {
+          "CountryName": "Denmark",
+          "FacilityName": "DONG ENERGY POWER A/S, Avedøreværket",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=9893",
+          "ReportingYear": "2017",
+          "MTonnes": 0.337,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00185
         },
         "type": "Feature"
       },
@@ -18686,7 +18764,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 46194.71701609856,
-              "Port Of Antwerp": 49194.907364041166,
+              "Port Of Antwerp": 49194.90736404117,
               "Tessenderloo": 95364.97790929917,
               "Port of Rotterdam": 98471.17637689004,
               "Valuepark Terneuzen": 26540.700462538636
@@ -18858,6 +18936,26 @@
               "Port of Rouen": 68361.28189923447
             }
           }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.687775,
+            42.175109
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "EDP ESPAÑA, S.A.U.",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=7305",
+          "ReportingYear": "2017",
+          "MTonnes": 0.534,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.000754
         },
         "type": "Feature"
       },
@@ -19057,7 +19155,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 82039.83875928413,
-              "Port Of Antwerp": 81433.6067312518,
+              "Port Of Antwerp": 81433.60673125181,
               "Valuepark Terneuzen": 65550.78593505152
             },
             "polyol plants": {
@@ -19089,7 +19187,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 75089.38069684361,
-              "Port Of Antwerp": 82377.97529472342,
+              "Port Of Antwerp": 82377.97529472344,
               "Valuepark Terneuzen": 43301.159870231204
             },
             "polyol plants": {
@@ -19122,7 +19220,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 58469.026517780854,
-              "Port Of Antwerp": 49945.410095264306,
+              "Port Of Antwerp": 49945.41009526431,
               "Tessenderloo": 17714.433156608604,
               "NUON Industriepark Oberbruch": 74213.87999895893,
               "BIZZPARK Oberbruch - Der Standort 3.0": 74367.05086512108,
@@ -19159,7 +19257,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 41464.24459215854,
-              "Port Of Antwerp": 44884.77258940256,
+              "Port Of Antwerp": 44884.772589402564,
               "Tessenderloo": 92119.4763490224,
               "Port of Rotterdam": 94211.69573073993,
               "Valuepark Terneuzen": 22475.535520128884
@@ -19252,7 +19350,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 10117.53308613573,
-              "Port Of Antwerp": 4085.2026502647777,
+              "Port Of Antwerp": 4085.202650264778,
               "Tessenderloo": 56003.68173403548,
               "Port of Rotterdam": 80052.79326696656,
               "Valuepark Terneuzen": 37192.48114371753
@@ -19393,7 +19491,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 35242.80182662824,
-              "Port Of Antwerp": 43909.36464630997,
+              "Port Of Antwerp": 43909.36464630998,
               "Tessenderloo": 96023.51159296873,
               "Port of Rotterdam": 73066.48772275656,
               "Valuepark Terneuzen": 3055.4484607153754
@@ -19655,8 +19753,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -4.709444,
-            41.676944
+            -4.709634,
+            41.677037
           ]
         },
         "properties": {
@@ -19717,8 +19815,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.7995193321975,
-            48.4552020943074
+            11.7994456947988,
+            48.4553388532795
           ]
         },
         "properties": {
@@ -19731,10 +19829,10 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "GENDORF Chemical Park": 74819.25618378365,
-              "Industrial Park Gersthofen": 67892.59400456287,
-              "Chemiepark Trostberg": 73734.6798210322,
-              "Basell Polyolefine": 34365.302618171874
+              "GENDORF Chemical Park": 74830.39609939406,
+              "Industrial Park Gersthofen": 67887.34340366397,
+              "Chemiepark Trostberg": 73748.69908331918,
+              "Basell Polyolefine": 34349.332455736316
             }
           }
         },
@@ -19758,7 +19856,7 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Vynova Wilhelmshaven": 80544.07441282307,
+              "Vynova Wilhelmshaven": 80544.07441282306,
               "Chemical Cluster Delfzijl": 14063.341833967253,
               "EMMTEC Industry & Business Park": 73596.7551238945
             }
@@ -19901,6 +19999,25 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            8.867777,
+            45.099166
+          ]
+        },
+        "properties": {
+          "CountryName": "Italy",
+          "FacilityName": "ENIPOWER SPA STABILIMENTO DI FERRERA ERBOGNONE",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=418",
+          "ReportingYear": "2017",
+          "MTonnes": 0.283,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             1.12865,
             52.3357
           ]
@@ -19992,7 +20109,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 10456.42097381226,
-              "Port Of Antwerp": 5432.6126331071355,
+              "Port Of Antwerp": 5432.612633107136,
               "Tessenderloo": 56937.3011566154,
               "Port of Rotterdam": 80562.71399993326,
               "Valuepark Terneuzen": 36221.25765106699
@@ -20176,7 +20293,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 37904.38948226636,
-              "Port Of Antwerp": 41668.93178158294,
+              "Port Of Antwerp": 41668.93178158295,
               "Tessenderloo": 89689.65842933214,
               "Port of Rotterdam": 91112.14591294347,
               "Valuepark Terneuzen": 19740.24384214354
@@ -20994,7 +21111,7 @@
         },
         "properties": {
           "CountryName": "Austria",
-          "FacilityName": "Energie AG Oberösterreich Kraftwerke GmbH",
+          "FacilityName": "Energie AG Oberösterreich Erzeugung GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5777",
           "ReportingYear": "2016",
           "MTonnes": 0.203,
@@ -21019,7 +21136,7 @@
         },
         "properties": {
           "CountryName": "Austria",
-          "FacilityName": "Energie AG Oberösterreich Kraftwerke GmbH",
+          "FacilityName": "Energie AG Oberösterreich Erzeugung GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5779",
           "ReportingYear": "2017",
           "MTonnes": 0.492,
@@ -21028,7 +21145,7 @@
           "distances": {
             "chemical parks": {
               "Chemiepark Linz": 63182.49602543646,
-              "GENDORF Chemical Park": 67060.76142371268,
+              "GENDORF Chemical Park": 67060.76142371267,
               "Chemiepark Trostberg": 77125.37742435507
             }
           }
@@ -21297,7 +21414,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.404647,
+            10.404647, 
             55.428245
           ]
         },
@@ -21668,7 +21785,7 @@
               "Chempark Leverkusen Currenta": 81975.29934508401,
               "Industrial Park Dorsten-Marl": 37071.854113293004,
               "IndustriePark Lingen": 96765.73426503781,
-              "Industriepark Solvay Rheinberg": 72261.54437565722,
+              "Industriepark Solvay Rheinberg": 72261.54437565723,
               "Krefeld-Uerdingen Currenta": 72240.42968971972,
               "Marl Chemical Park": 37380.87104118376,
               "Henkel AG & Co. KGaA": 74221.144759393,
@@ -21972,7 +22089,7 @@
               "InfraLeuna GmbH": 14953.685751737463,
               "Schkopau": 7693.028148732048,
               "Solvay's Industrial Park in Bernburg": 41227.26514073056,
-              "Industrial Park Bayer Bitterfeld": 30235.751418307835,
+              "Industrial Park Bayer Bitterfeld": 30235.75141830784,
               "DOW Olefinverbund Böhlen": 39449.66023798832
             }
           }
@@ -22128,7 +22245,7 @@
           "MTonnes": 0.587,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR",
-          "coAmount": 0.00124
+          "coAmount": 0.00137
         },
         "type": "Feature"
       },
@@ -22156,7 +22273,7 @@
               "Chempark Leverkusen Currenta": 44101.6751164781,
               "Industrial Park Dorsten-Marl": 43278.56075034365,
               "Industriepark Solvay Rheinberg": 23707.569476019045,
-              "Krefeld-Uerdingen Currenta": 3825.530686464812,
+              "Krefeld-Uerdingen Currenta": 3825.530686464813,
               "Marl Chemical Park": 42762.71320587987,
               "NUON Industriepark Oberbruch": 53147.5082504668,
               "Henkel AG & Co. KGaA": 22716.262624268926,
@@ -22383,7 +22500,7 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Agro-Chemie Park Piesteritz": 73294.66290991096,
+              "Agro-Chemie Park Piesteritz": 73294.66290991094,
               "ChemiePark Bitterfeld Wolfen": 39792.14138096615,
               "Chemie- und Industriepark Zeitz": 30880.699742089473,
               "InfraLeuna GmbH": 569.6042577340677,
@@ -22420,7 +22537,7 @@
               "Chempark Leverkusen Currenta": 74401.86847577928,
               "Industrial Park Dorsten-Marl": 1344.3868170014575,
               "IndustriePark Lingen": 90913.7611587172,
-              "Industriepark Solvay Rheinberg": 38278.433567910026,
+              "Industriepark Solvay Rheinberg": 38278.43356791004,
               "Krefeld-Uerdingen Currenta": 45404.92239493677,
               "Marl Chemical Park": 1506.6316292132724,
               "NUON Industriepark Oberbruch": 95941.43298565177,
@@ -22789,8 +22906,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            9.14863055894871,
-            49.8274078496242
+            9.14808048104597,
+            49.8293962997416
           ]
         },
         "properties": {
@@ -22803,14 +22920,14 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "BASF SE. Ludwigshafen": 63330.794141713246,
-              "Industriepark Höchst": 52350.345324759044,
-              "Wolfgang Industrial Park": 34950.301893729345,
-              "Evonik Site Darmstadt/Weiterstadt": 38619.22549122476,
-              "Kalle-Albert Industrial Park": 68673.82393324365,
-              "Allessa GmbH": 43190.53463879194,
-              "Industry Centre Obernburg Mainsite GmbH": 293.73507615823536,
-              "BASF Lampertheim GmbH": 56067.15400717591
+              "BASF SE. Ludwigshafen": 63427.15101656716,
+              "Industriepark Höchst": 52195.65509964799,
+              "Wolfgang Industrial Park": 34730.50900811068,
+              "Evonik Site Darmstadt/Weiterstadt": 38543.633636900435,
+              "Kalle-Albert Industrial Park": 68560.81476351438,
+              "Allessa GmbH": 42994.038801583374,
+              "Industry Centre Obernburg Mainsite GmbH": 281.2485628607266,
+              "BASF Lampertheim GmbH": 56122.3908513869
             }
           }
         },
@@ -22951,9 +23068,9 @@
             "chemical parks": {
               "Castrop-Rauxel": 94884.78908160586,
               "Industrial Park Dorsten-Marl": 93381.68589736674,
-              "IndustriePark Lingen": 52911.53242819219,
+              "IndustriePark Lingen": 52911.5324281922,
               "Marl Chemical Park": 93902.53909965076,
-              "EMMTEC Industry & Business Park": 92386.09597004394
+              "EMMTEC Industry & Business Park": 92386.09597004396
             }
           }
         },
@@ -22997,7 +23114,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 94640.0102658351,
-              "Port Of Antwerp": 84010.53319745841,
+              "Port Of Antwerp": 84010.53319745843,
               "Tessenderloo": 31655.798923464357,
               "Chemiepark Knapsack": 95757.89102865965,
               "Chempark Dormagen": 94794.52150340994,
@@ -23195,30 +23312,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            14.323611,
-            48.29889
-          ]
-        },
-        "properties": {
-          "CountryName": "Austria",
-          "FacilityName": "Linz Strom GmbH",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5806",
-          "ReportingYear": "2017",
-          "MTonnes": 0.524,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR",
-          "distances": {
-            "chemical parks": {
-              "Chemiepark Linz": 1303.1611320895406
-            }
-          }
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             14.346667,
             48.268055
           ]
@@ -23234,6 +23327,30 @@
           "distances": {
             "chemical parks": {
               "Chemiepark Linz": 2527.9434016359646
+            }
+          }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.323611,
+            48.29889
+          ]
+        },
+        "properties": {
+          "CountryName": "Austria",
+          "FacilityName": "Linz Strom GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5806",
+          "ReportingYear": "2017",
+          "MTonnes": 0.524,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "distances": {
+            "chemical parks": {
+              "Chemiepark Linz": 1303.1611320895406
             }
           }
         },
@@ -23640,7 +23757,7 @@
               "Chempark Dormagen": 54048.57824541874,
               "Chempark Leverkusen Currenta": 52071.02768696678,
               "Industrial Park Dorsten-Marl": 38608.33922470469,
-              "Industriepark Solvay Rheinberg": 60248.110143207916,
+              "Industriepark Solvay Rheinberg": 60248.11014320793,
               "Krefeld-Uerdingen Currenta": 51725.821551129244,
               "Marl Chemical Park": 38516.26954780466,
               "NUON Industriepark Oberbruch": 96117.7941501324,
@@ -23793,6 +23910,45 @@
               "Vynova Wilhelmshaven": 37844.03142253729
             }
           }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -5.85391,
+            43.549466
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "NATURGAS COGENERACIÓN, S.A.",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24460",
+          "ReportingYear": "2017",
+          "MTonnes": 0.315,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.279673,
+            39.677606
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "NATURGY GENERACION, SLU (NATURGY)",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24934",
+          "ReportingYear": "2017",
+          "MTonnes": 1.03,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.000511
         },
         "type": "Feature"
       },
@@ -24112,7 +24268,7 @@
           "PollutantName": "CO2, AIR",
           "distances": {
             "chemical parks": {
-              "Schwedt/Oder PCK Raffinerie GmbH": 79335.76315611278
+              "Schwedt/Oder PCK Raffinerie GmbH": 79335.76315611276
             }
           }
         },
@@ -25276,7 +25432,7 @@
               "Chempark Leverkusen Currenta": 89066.49713196313,
               "Industrial Park Dorsten-Marl": 43420.740864918414,
               "IndustriePark Lingen": 94578.64225829764,
-              "Industriepark Solvay Rheinberg": 79448.70847299228,
+              "Industriepark Solvay Rheinberg": 79448.7084729923,
               "Krefeld-Uerdingen Currenta": 80035.64524553728,
               "Marl Chemical Park": 43775.512367873904,
               "Henkel AG & Co. KGaA": 81925.06527919254,
@@ -25383,46 +25539,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            6.31457811541503,
-            50.8331620519569
-          ]
-        },
-        "properties": {
-          "CountryName": "Germany",
-          "FacilityName": "RWE Power AG",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=44118",
-          "ReportingYear": "2017",
-          "MTonnes": 19.1,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR",
-          "coAmount": 0.00976,
-          "distances": {
-            "chemical parks": {
-              "Tessenderloo": 89673.44367723382,
-              "Chemiepark Knapsack": 37892.75303561974,
-              "Chempark Dormagen": 45165.35538827297,
-              "Chempark Leverkusen Currenta": 51487.31913292267,
-              "Industriepark Solvay Rheinberg": 83492.86366316472,
-              "Krefeld-Uerdingen Currenta": 64977.13931000547,
-              "NUON Industriepark Oberbruch": 27867.711420140648,
-              "Henkel AG & Co. KGaA": 53257.197705601815,
-              "BIZZPARK Oberbruch - Der Standort 3.0": 27747.98941350595,
-              "Chemical Park Knapsack ": 37739.55390851384,
-              "Evonik Site Lülsdorf": 48371.13286383838,
-              "Industriepark Köln - Merkenich": 48370.85247062323,
-              "Chemelot": 39774.70601524022
-            },
-            "polyol plants": {
-              "Covestro Deutschland AG": 46255.26765970351
-            }
-          }
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             6.59920108489932,
             51.0372235082785
           ]
@@ -25456,6 +25572,46 @@
             },
             "polyol plants": {
               "Covestro Deutschland AG": 17738.862407758254
+            }
+          }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.31457811541503,
+            50.8331620519569
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "RWE Power AG",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=44118",
+          "ReportingYear": "2017",
+          "MTonnes": 19.1,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00976,
+          "distances": {
+            "chemical parks": {
+              "Tessenderloo": 89673.44367723382,
+              "Chemiepark Knapsack": 37892.75303561974,
+              "Chempark Dormagen": 45165.35538827297,
+              "Chempark Leverkusen Currenta": 51487.31913292267,
+              "Industriepark Solvay Rheinberg": 83492.86366316472,
+              "Krefeld-Uerdingen Currenta": 64977.13931000547,
+              "NUON Industriepark Oberbruch": 27867.711420140648,
+              "Henkel AG & Co. KGaA": 53257.197705601815,
+              "BIZZPARK Oberbruch - Der Standort 3.0": 27747.98941350595,
+              "Chemical Park Knapsack ": 37739.55390851384,
+              "Evonik Site Lülsdorf": 48371.13286383838,
+              "Industriepark Köln - Merkenich": 48370.85247062323,
+              "Chemelot": 39774.70601524022
+            },
+            "polyol plants": {
+              "Covestro Deutschland AG": 46255.26765970351
             }
           }
         },
@@ -25722,7 +25878,7 @@
               "Chempark Leverkusen Currenta": 75415.9615233064,
               "Industrial Park Dorsten-Marl": 27269.45571121423,
               "IndustriePark Lingen": 96726.07132689269,
-              "Industriepark Solvay Rheinberg": 61789.19616089655,
+              "Industriepark Solvay Rheinberg": 61789.19616089656,
               "Krefeld-Uerdingen Currenta": 62122.951103690015,
               "Marl Chemical Park": 27528.22683483537,
               "Henkel AG & Co. KGaA": 65739.3849500079,
@@ -26361,25 +26517,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -5.85391,
-            43.549466
-          ]
-        },
-        "properties": {
-          "CountryName": "Spain",
-          "FacilityName": "SIDERGÁS",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24460",
-          "ReportingYear": "2017",
-          "MTonnes": 0.315,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             9.560559851386,
             56.201017159298
           ]
@@ -26673,7 +26810,7 @@
               "Chempark Dormagen": 50370.85680165114,
               "Chempark Leverkusen Currenta": 60107.44295839687,
               "Industrial Park Dorsten-Marl": 30978.701606196766,
-              "Industriepark Solvay Rheinberg": 10654.143066469687,
+              "Industriepark Solvay Rheinberg": 10654.143066469689,
               "Krefeld-Uerdingen Currenta": 17257.026027019016,
               "Marl Chemical Park": 30467.485358728052,
               "NUON Industriepark Oberbruch": 65701.31618394938,
@@ -27039,7 +27176,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 43344.765206727294,
-              "Port Of Antwerp": 53709.07540461267,
+              "Port Of Antwerp": 53709.075404612675,
               "Port of Rotterdam": 63800.97660844392,
               "Valuepark Terneuzen": 15573.549851269445
             },
@@ -27201,25 +27338,6 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=13452",
           "ReportingYear": "2017",
           "MTonnes": 1.39,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            8.867777,
-            45.099166
-          ]
-        },
-        "properties": {
-          "CountryName": "Italy",
-          "FacilityName": "Stabilimento di Ferrera Erbognone",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=418",
-          "ReportingYear": "2016",
-          "MTonnes": 2.75,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR"
         },
@@ -27437,6 +27555,25 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            9.43269578392638,
+            54.8048545092916
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "Stadtwerke Flensburg GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=104952",
+          "ReportingYear": "2017",
+          "MTonnes": 0.597,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             12.5699365772614,
             51.8708533262732
           ]
@@ -27457,7 +27594,7 @@
               "Industriepark Premnitz": 75235.2699715604,
               "InfraLeuna GmbH": 72196.3753436311,
               "Schkopau": 66985.91001369395,
-              "Solvay's Industrial Park in Bernburg": 56665.19250676589,
+              "Solvay's Industrial Park in Bernburg": 56665.1925067659,
               "Industrial Park Bayer Bitterfeld": 30449.506209798703,
               "DOW Olefinverbund Böhlen": 77260.35875876773
             }
@@ -27617,7 +27754,7 @@
               "Chempark Leverkusen Currenta": 75104.8740312429,
               "Industrial Park Dorsten-Marl": 28048.926804391573,
               "IndustriePark Lingen": 97454.40884624104,
-              "Industriepark Solvay Rheinberg": 62351.508731058704,
+              "Industriepark Solvay Rheinberg": 62351.50873105872,
               "Krefeld-Uerdingen Currenta": 62401.00642100911,
               "Marl Chemical Park": 28299.94663066712,
               "Henkel AG & Co. KGaA": 65671.80491695026,
@@ -27708,7 +27845,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 64352.51222166061,
-              "Port Of Antwerp": 53750.3436739299,
+              "Port Of Antwerp": 53750.34367392991,
               "Tessenderloo": 1364.2187033438515,
               "NUON Industriepark Oberbruch": 72417.97398306074,
               "BIZZPARK Oberbruch - Der Standort 3.0": 72559.81274852283,
@@ -28620,7 +28757,7 @@
               "Agro-Chemie Park Piesteritz": 59139.511624998144,
               "ChemiePark Bitterfeld Wolfen": 85942.77797640553,
               "Industriepark Premnitz": 16117.002604239953,
-              "Solvay's Industrial Park in Bernburg": 80290.6087861515,
+              "Solvay's Industrial Park in Bernburg": 80290.60878615151,
               "Industrial Park Bayer Bitterfeld": 82188.37850902158
             }
           }
@@ -28649,9 +28786,9 @@
               "ChemiePark Bitterfeld Wolfen": 35195.29404284566,
               "Chemie- und Industriepark Zeitz": 40436.115206576535,
               "InfraLeuna GmbH": 9009.003456969165,
-              "Schkopau": 2585.172669056213,
+              "Schkopau": 2585.1726690562136,
               "Solvay's Industrial Park in Bernburg": 46543.92993069576,
-              "Industrial Park Bayer Bitterfeld": 37281.152166826396,
+              "Industrial Park Bayer Bitterfeld": 37281.1521668264,
               "DOW Olefinverbund Böhlen": 36828.8333672108
             }
           }
@@ -28753,26 +28890,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -1.25426,
-            52.866
-          ]
-        },
-        "properties": {
-          "CountryName": "United Kingdom",
-          "FacilityName": "Uniper UK Limited",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=12992",
-          "ReportingYear": "2017",
-          "MTonnes": 2.45,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR",
-          "coAmount": 0.00126
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -0.781766,
             53.3033
           ]
@@ -28790,6 +28907,26 @@
               "Saltend Chemicals Parks": 59968.7778394208
             }
           }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.25426,
+            52.866
+          ]
+        },
+        "properties": {
+          "CountryName": "United Kingdom",
+          "FacilityName": "Uniper UK Limited",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=12992",
+          "ReportingYear": "2017",
+          "MTonnes": 2.45,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00126
         },
         "type": "Feature"
       },
@@ -29037,7 +29174,7 @@
           "distances": {
             "chemical parks": {
               "industriepark walsrode": 90670.41177639092,
-              "Solvay's Industrial Park in Bernburg": 98296.82416191083
+              "Solvay's Industrial Park in Bernburg": 98296.82416191084
             }
           }
         },
@@ -29909,7 +30046,7 @@
               "Chemie- und Industriepark Zeitz": 62838.06387321442,
               "InfraLeuna GmbH": 39717.04633091499,
               "Schkopau": 34575.81819432526,
-              "Solvay's Industrial Park in Bernburg": 42393.62763420669,
+              "Solvay's Industrial Park in Bernburg": 42393.6276342067,
               "Industrial Park Bayer Bitterfeld": 3613.5273869524813,
               "DOW Olefinverbund Böhlen": 49156.35253068687
             }
@@ -30082,7 +30219,7 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 8335.196245392268,
-              "Port Of Antwerp": 4121.672823339237,
+              "Port Of Antwerp": 4121.672823339238,
               "Tessenderloo": 56518.863958480535,
               "Port of Rotterdam": 78085.8109976069,
               "Valuepark Terneuzen": 36885.721288215354
@@ -30377,6 +30514,7 @@
           "MTonnes": 0.000877,
           "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
           "PollutantName": "CO, AIR",
+          "co2Amount": 2.29,
           "distances": {
             "chemical parks": {
               "AEQT - Tarragona Chemical Cluster": 6157.674639504362
@@ -30598,7 +30736,7 @@
               "Chemie- und Industriepark Zeitz": 28251.35937173326,
               "InfraLeuna GmbH": 3253.5265905487076,
               "Schkopau": 10631.760068514874,
-              "Solvay's Industrial Park in Bernburg": 58725.79232357769,
+              "Solvay's Industrial Park in Bernburg": 58725.792323577705,
               "Industrial Park Bayer Bitterfeld": 44629.239423570725,
               "DOW Olefinverbund Böhlen": 26841.952781868764
             }
@@ -30808,7 +30946,7 @@
               "Chempark Dormagen": 56916.553805580654,
               "Chempark Leverkusen Currenta": 67808.10416827475,
               "Industrial Park Dorsten-Marl": 37392.31578444594,
-              "Industriepark Solvay Rheinberg": 137.85250094221516,
+              "Industriepark Solvay Rheinberg": 137.8525009422152,
               "Krefeld-Uerdingen Currenta": 22048.475270415674,
               "Marl Chemical Park": 36921.547622320824,
               "NUON Industriepark Oberbruch": 64157.490621077704,
@@ -31010,7 +31148,8 @@
           "ReportingYear": "2017",
           "MTonnes": 0.00778,
           "NACEMainEconomicActivityName": "Manufacture of other inorganic basic chemicals",
-          "PollutantName": "CO, AIR"
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.948
         },
         "type": "Feature"
       },
@@ -31491,8 +31630,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.99932,
-            41.407999
+            1.999262,
+            41.408723
           ]
         },
         "properties": {
@@ -31506,11 +31645,11 @@
           "co2Amount": 1.14,
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 70631.87303233286
+              "AEQT - Tarragona Chemical Cluster": 70663.75854468369
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 75731.67211383961,
-              "Repsol Quinica S.A.": 69407.05380226274
+              "Dow Chemical Iberica S.A.": 75763.16799283175,
+              "Repsol Quinica S.A.": 69430.75092728656
             }
           }
         },
@@ -31560,8 +31699,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.663095,
-            41.313945
+            1.663019,
+            41.314665
           ]
         },
         "properties": {
@@ -31575,11 +31714,11 @@
           "co2Amount": 1.1,
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 41004.881485216174
+              "AEQT - Tarragona Chemical Cluster": 41041.44322290136
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 46061.9534953839,
-              "Repsol Quinica S.A.": 39460.857873852
+              "Dow Chemical Iberica S.A.": 46097.25052663855,
+              "Repsol Quinica S.A.": 39483.484090126796
             }
           }
         },
@@ -31608,8 +31747,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.545404,
-            40.578213
+            0.545266,
+            40.578911
           ]
         },
         "properties": {
@@ -31623,11 +31762,11 @@
           "co2Amount": 0.779,
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 84284.84931305569
+              "AEQT - Tarragona Chemical Cluster": 84237.27945030035
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 79589.60938369564,
-              "Repsol Quinica S.A.": 88426.30143899772
+              "Dow Chemical Iberica S.A.": 79540.51017357057,
+              "Repsol Quinica S.A.": 88374.19373350103
             }
           }
         },
@@ -31904,7 +32043,7 @@
           "co2Amount": 0.927,
           "distances": {
             "chemical parks": {
-              "Schwechat": 63469.66133535374
+              "Schwechat": 63469.661335353725
             },
             "polyol plants": {
               "MOL Petrochemicals Plc.": 37076.96154428269
@@ -32213,7 +32352,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "Ciments Calcia - Site d'Airvault",
+          "FacilityName": "Ciments Calcia - Site dAirvault",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=4907",
           "ReportingYear": "2017",
           "MTonnes": 0.00244,
@@ -32312,6 +32451,38 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            8.03701249412367,
+            49.6020260228561
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "Dyckerhoff GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=45170",
+          "ReportingYear": "2017",
+          "MTonnes": 0.00269,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.683,
+          "distances": {
+            "chemical parks": {
+              "BASF SE. Ludwigshafen": 31022.19395327601,
+              "Industriepark Höchst": 64624.79442264396,
+              "Wolfgang Industrial Park": 87920.37108874122,
+              "Evonik Site Darmstadt/Weiterstadt": 52220.91941845503,
+              "Kalle-Albert Industrial Park": 50626.929094924024,
+              "Allessa GmbH": 78530.5990516914,
+              "Industry Centre Obernburg Mainsite GmbH": 84036.96062545228,
+              "BASF Lampertheim GmbH": 29019.24600089597
+            }
+          }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             7.88782764054791,
             52.1749858906752
           ]
@@ -32332,38 +32503,6 @@
               "IndustriePark Lingen": 52413.259066227874,
               "Marl Chemical Park": 77812.51443354503,
               "EMMTEC Industry & Business Park": 94147.73060895405
-            }
-          }
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            8.03701249412367,
-            49.6020260228561
-          ]
-        },
-        "properties": {
-          "CountryName": "Germany",
-          "FacilityName": "Dyckerhoff GmbH",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=45170",
-          "ReportingYear": "2017",
-          "MTonnes": 0.00269,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO, AIR",
-          "co2Amount": 0.683,
-          "distances": {
-            "chemical parks": {
-              "BASF SE. Ludwigshafen": 31022.19395327602,
-              "Industriepark Höchst": 64624.794422643965,
-              "Wolfgang Industrial Park": 87920.37108874123,
-              "Evonik Site Darmstadt/Weiterstadt": 52220.91941845503,
-              "Kalle-Albert Industrial Park": 50626.929094924024,
-              "Allessa GmbH": 78530.5990516914,
-              "Industry Centre Obernburg Mainsite GmbH": 84036.96062545228,
-              "BASF Lampertheim GmbH": 29019.24600089597
             }
           }
         },
@@ -33274,7 +33413,7 @@
             "chemical parks": {
               "SOLVAY Acetow GmbH": 71278.31851039223,
               "Infrapark Baselland": 39239.65185591615,
-              "Solvay Ind.park": 21466.86257109128
+              "Solvay Ind.park": 21466.862571091275
             }
           }
         },
@@ -33531,26 +33670,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            15.58,
-            46.74472
-          ]
-        },
-        "properties": {
-          "CountryName": "Austria",
-          "FacilityName": "Lafarge Zementwerke GmbH",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5866",
-          "ReportingYear": "2017",
-          "MTonnes": 0.00137,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO, AIR",
-          "co2Amount": 0.355
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             16.6,
             47.983334
           ]
@@ -33572,6 +33691,26 @@
               "MOL Petrochemicals Plc.": 45684.49002943009
             }
           }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15.58,
+            46.74472
+          ]
+        },
+        "properties": {
+          "CountryName": "Austria",
+          "FacilityName": "Lafarge Zementwerke GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5866",
+          "ReportingYear": "2017",
+          "MTonnes": 0.00137,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.355
         },
         "type": "Feature"
       },
@@ -33654,7 +33793,7 @@
           "FacilityName": "Opterra Wössingen GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2484",
           "ReportingYear": "2017",
-          "MTonnes": 0.000572,
+          "MTonnes": 0.00104,
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.539,
@@ -34055,31 +34194,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            9.73046874793038,
-            48.3319862835618
-          ]
-        },
-        "properties": {
-          "CountryName": "Germany",
-          "FacilityName": "Schwenk Zement KG",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2516",
-          "ReportingYear": "2017",
-          "MTonnes": 0.000808,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO, AIR",
-          "co2Amount": 0.712,
-          "distances": {
-            "chemical parks": {
-              "Industrial Park Gersthofen": 85734.11006478535
-            }
-          }
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             10.1624676707787,
             48.6536868285267
           ]
@@ -34096,6 +34210,31 @@
           "distances": {
             "chemical parks": {
               "Industrial Park Gersthofen": 57656.55201892961
+            }
+          }
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.73046874793038,
+            48.3319862835618
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "Schwenk Zement KG",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2516",
+          "ReportingYear": "2017",
+          "MTonnes": 0.000808,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.712,
+          "distances": {
+            "chemical parks": {
+              "Industrial Park Gersthofen": 85734.11006478535
             }
           }
         },
@@ -34127,7 +34266,7 @@
               "InfraLeuna GmbH": 57426.86218068524,
               "Schkopau": 50115.16058375455,
               "Solvay's Industrial Park in Bernburg": 1974.6318722309832,
-              "Industrial Park Bayer Bitterfeld": 40934.516337753295,
+              "Industrial Park Bayer Bitterfeld": 40934.5163377533,
               "DOW Olefinverbund Böhlen": 81607.57621925807
             }
           }
@@ -34563,6 +34702,26 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            14.533667,
+            46.849888
+          ]
+        },
+        "properties": {
+          "CountryName": "Austria",
+          "FacilityName": "w&p Zement GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=301655",
+          "ReportingYear": "2017",
+          "MTonnes": 0.00287,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.451
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             16.771682269444444,
             49.21641098888889
           ]
@@ -34800,8 +34959,8 @@
           "distances": {
             "chemical parks": {
               "InfraLeuna GmbH": 94289.9119258215,
-              "Schkopau": 89597.10604903137,
-              "Solvay's Industrial Park in Bernburg": 63902.25087237771
+              "Schkopau": 89597.10604903138,
+              "Solvay's Industrial Park in Bernburg": 63902.250872377714
             }
           }
         },
@@ -34984,7 +35143,7 @@
               "Chempark Dormagen": 78954.3901233491,
               "Chempark Leverkusen Currenta": 73064.89398065775,
               "Industrial Park Dorsten-Marl": 61203.29566572052,
-              "Industriepark Solvay Rheinberg": 89389.17880928254,
+              "Industriepark Solvay Rheinberg": 89389.17880928256,
               "Krefeld-Uerdingen Currenta": 81738.55442283771,
               "Marl Chemical Park": 61322.22384126247,
               "Henkel AG & Co. KGaA": 73826.18950569519,
@@ -35302,9 +35461,9 @@
           "distances": {
             "chemical parks": {
               "INEOS Antwerp site": 94967.40470967391,
-              "Port Of Antwerp": 84355.76253481732,
-              "Tessenderloo": 31989.111594444646,
-              "Chemiepark Knapsack": 95328.59917644018,
+              "Port Of Antwerp": 84355.76253481733,
+              "Tessenderloo": 31989.11159444465,
+              "Chemiepark Knapsack": 95328.59917644021,
               "Chempark Dormagen": 94334.608043676,
               "Krefeld-Uerdingen Currenta": 94662.56648444993,
               "NUON Industriepark Oberbruch": 46902.96583540831,
@@ -35314,7 +35473,7 @@
               "Chemelot": 20997.896086744764
             },
             "polyol plants": {
-              "BASF Antwerpen N.V.": 97882.04442860714,
+              "BASF Antwerpen N.V.": 97882.04442860716,
               "Covestro N.V.": 90825.70919974257,
               "Covestro Deutschland AG": 95344.15779619987
             }
@@ -35474,7 +35633,7 @@
           "MTonnes": 0.0521,
           "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
           "PollutantName": "CO, AIR",
-          "co2Amount": 26.6,
+          "co2Amount": 2.66,
           "distances": {
             "chemical parks": {
               "ChemCoast Park Brunsbüttel": 92643.45926356995,
@@ -35747,30 +35906,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            15.502889,
-            47.534084
-          ]
-        },
-        "properties": {
-          "CountryName": "Austria",
-          "FacilityName": "Breitenfeld Edelstahl AG",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5840",
-          "ReportingYear": "2015",
-          "MTonnes": 0.000817,
-          "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
-          "PollutantName": "CO, AIR",
-          "distances": {
-            "chemical parks": {
-              "Schwechat": 99158.07945754378
-            }
-          }
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             22.05325,
             50.555472
           ]
@@ -35823,7 +35958,7 @@
           "PollutantName": "CO, AIR",
           "distances": {
             "polyol plants": {
-              "Oltchim": 92497.91695678128
+              "Oltchim": 92497.91695678126
             }
           }
         },
@@ -36080,8 +36215,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.8593505316353,
-            48.5121188672337
+            10.8601775008526,
+            48.5106659892612
           ]
         },
         "properties": {
@@ -36095,8 +36230,8 @@
           "co2Amount": 0.169,
           "distances": {
             "chemical parks": {
-              "Industrial Park Gersthofen": 7669.933587861628,
-              "Basell Polyolefine": 68162.7744895712
+              "Industrial Park Gersthofen": 7499.803370056421,
+              "Basell Polyolefine": 68173.06391800717
             }
           }
         },
@@ -36338,7 +36473,7 @@
         },
         "properties": {
           "CountryName": "Spain",
-          "FacilityName": "SIDENOR INDUSTRIAL PLANTA DE REINOSA",
+          "FacilityName": "SIDENOR FORGINGS  y  CASTINGS Y SIDENOR ACEROS ESPECIALES S.L.U",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=8588",
           "ReportingYear": "2017",
           "MTonnes": 0.000864,
@@ -36896,11 +37031,11 @@
           "CountryName": "Austria",
           "FacilityName": "voestalpine Stahl GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5868",
-          "ReportingYear": "2015",
-          "MTonnes": 0.0712,
+          "ReportingYear": "2016",
+          "MTonnes": 0.076,
           "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
           "PollutantName": "CO, AIR",
-          "co2Amount": 8.64,
+          "co2Amount": 8.6,
           "distances": {
             "chemical parks": {
               "Chemiepark Linz": 1100.540425955738
@@ -37077,26 +37212,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.279673,
-            39.677606
-          ]
-        },
-        "properties": {
-          "CountryName": "Spain",
-          "FacilityName": "CENTRAL DE CICLO COMBINADO DE SAGUNTO (NATURGY)",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24934",
-          "ReportingYear": "2017",
-          "MTonnes": 0.000511,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO, AIR",
-          "co2Amount": 1.03
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -16.5512,
             28.40899
           ]
@@ -37157,8 +37272,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.229,
-            41.420108
+            2.228956,
+            41.420832
           ]
         },
         "properties": {
@@ -37172,11 +37287,11 @@
           "co2Amount": 0.926,
           "distances": {
             "chemical parks": {
-              "AEQT - Tarragona Chemical Cluster": 88665.4896369232
+              "AEQT - Tarragona Chemical Cluster": 88691.97479809201
             },
             "polyol plants": {
-              "Dow Chemical Iberica S.A.": 93779.47019451275,
-              "Repsol Quinica S.A.": 87993.66425165426
+              "Dow Chemical Iberica S.A.": 93805.97825238366,
+              "Repsol Quinica S.A.": 88013.46970159408
             }
           }
         },
@@ -37562,7 +37677,8 @@
           "ReportingYear": "2017",
           "MTonnes": 0.00185,
           "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO, AIR"
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.337
         },
         "type": "Feature"
       },
@@ -37785,7 +37901,8 @@
           "ReportingYear": "2017",
           "MTonnes": 0.000754,
           "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO, AIR"
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.534
         },
         "type": "Feature"
       },
@@ -38094,7 +38211,7 @@
           "FacilityName": "Huntstown Power Company Limited",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=9506",
           "ReportingYear": "2017",
-          "MTonnes": 0.00124,
+          "MTonnes": 0.00137,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.587
@@ -38322,6 +38439,26 @@
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.219
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.279673,
+            39.677606
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "NATURGY GENERACION, SLU (NATURGY)",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24934",
+          "ReportingYear": "2017",
+          "MTonnes": 0.000511,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 1.03
         },
         "type": "Feature"
       },
