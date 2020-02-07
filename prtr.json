@@ -1,6 +1,5 @@
 {
   "stats": {
-    "Description": "BEFORE CHANGING: PLEASE NOTE: the location for 'FJERNVARME FYN FYNSVÆRKET A/S' has to be changed from (9.80973039123284°, 5.33467590910096°) to 10.404647, 55.428245",
     "totalMax": 37.6,
     "max": {
       "CO, AIR": 0.185,
@@ -9,25 +8,26 @@
     "totals": {
       "CO2, AIR": {
         "Extraction of natural gas": 5.21,
-        "Manufacture of refined petroleum products": 141.717,
-        "Manufacture of other inorganic basic chemicals": 15.947999999999999,
+        "Manufacture of refined petroleum products": 142.52700000000002,
+        "Manufacture of other inorganic basic chemicals": 16.896,
         "Manufacture of fertilisers and nitrogen compounds": 24.802,
-        "Manufacture of cement": 126.25199999999998,
-        "Manufacture of lime and plaster": 21.287,
-        "Manufacture of basic iron and steel and of ferro-alloys": 167.86599999999999,
-        "Production of electricity": 988.2660000000001
+        "Manufacture of cement": 126.99399999999997,
+        "Manufacture of lime and plaster": 21.42,
+        "Manufacture of basic iron and steel and of ferro-alloys": 143.886,
+        "Production of electricity": 988.334
       },
       "CO, AIR": {
         "Extraction of natural gas": 0.00077,
         "Manufacture of refined petroleum products": 0.058138,
         "Manufacture of other inorganic basic chemicals": 0.093351,
         "Manufacture of fertilisers and nitrogen compounds": 0.004443,
-        "Manufacture of cement": 0.26996600000000004,
+        "Manufacture of cement": 0.27330400000000005,
         "Manufacture of lime and plaster": 0.10318699999999996,
-        "Manufacture of basic iron and steel and of ferro-alloys": 1.9926569999999995,
-        "Production of electricity": 0.1857680000000001
+        "Manufacture of basic iron and steel and of ferro-alloys": 1.9966399999999995,
+        "Production of electricity": 0.1858980000000001
       }
-    }
+    },
+    "Description": "BEFORE CHANGING: PLEASE NOTE: the location for 'FJERNVARME FYN FYNSVÆRKET A/S' has to be changed from (9.80973039123284°, 5.33467590910096°) to 10.404647, 55.428245"
   },
   "CO2, AIR": {
     "type": "FeatureCollection",
@@ -745,8 +745,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.4773151583894,
-            48.7919923414074
+            11.4729236246672,
+            48.7893605962044
           ]
         },
         "properties": {
@@ -859,25 +859,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -3.6859,
-            56.0071
-          ]
-        },
-        "properties": {
-          "CountryName": "United Kingdom",
-          "FacilityName": "INEOS Chemicals Grangemouth Ltd",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=176159",
-          "ReportingYear": "2012",
-          "MTonnes": 0.888,
-          "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
-          "PollutantName": "CO2, AIR"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -3.68557,
             56.0201
           ]
@@ -888,25 +869,6 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=200487",
           "ReportingYear": "2017",
           "MTonnes": 0.496,
-          "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
-          "PollutantName": "CO2, AIR"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -3.69084,
-            56.014
-          ]
-        },
-        "properties": {
-          "CountryName": "United Kingdom",
-          "FacilityName": "INEOS Infrastructure (Grangemouth) Ltd",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=176527",
-          "ReportingYear": "2012",
-          "MTonnes": 0.592,
           "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
           "PollutantName": "CO2, AIR"
         },
@@ -1240,8 +1202,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            12.8324911384319,
-            48.1949765667036
+            12.8364904939621,
+            48.1930004860415
           ]
         },
         "properties": {
@@ -1638,6 +1600,26 @@
           "MTonnes": 2.41,
           "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
           "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            1.227106,
+            41.173678
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "REPSOL REFINERIA TARRAGONA",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=6897",
+          "ReportingYear": "2017",
+          "MTonnes": 2.29,
+          "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.000877
         },
         "type": "Feature"
       },
@@ -3030,6 +3012,26 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -4.038539,
+            43.363203
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "SOLVAY QUIMICA (FÁBRICA DE TORRELAVEGA)",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=8727",
+          "ReportingYear": "2017",
+          "MTonnes": 0.948,
+          "NACEMainEconomicActivityName": "Manufacture of other inorganic basic chemicals",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00778
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             5.4,
             47.03
           ]
@@ -4129,8 +4131,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.99932,
-            41.407999
+            1.999262,
+            41.408723
           ]
         },
         "properties": {
@@ -4189,8 +4191,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.663095,
-            41.313945
+            1.663019,
+            41.314665
           ]
         },
         "properties": {
@@ -4202,6 +4204,25 @@
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO2, AIR",
           "coAmount": 0.00914
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.189981,
+            42.882946
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "CEMENTOS PORTLAND VALDERRIVAS, S.A.-FABRICA CEMENTO",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=7182",
+          "ReportingYear": "2017",
+          "MTonnes": 0.291,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO2, AIR"
         },
         "type": "Feature"
       },
@@ -4228,8 +4249,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.545404,
-            40.578213
+            0.545266,
+            40.578911
           ]
         },
         "properties": {
@@ -4387,26 +4408,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            3,
-            47.09
-          ]
-        },
-        "properties": {
-          "CountryName": "France",
-          "FacilityName": "CIMENTS CALCIA",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5333",
-          "ReportingYear": "2017",
-          "MTonnes": 0.335,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO2, AIR",
-          "coAmount": 0.00058
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             4.59,
             43.77
           ]
@@ -4420,6 +4421,26 @@
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO2, AIR",
           "coAmount": 0.00072
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            3,
+            47.09
+          ]
+        },
+        "properties": {
+          "CountryName": "France",
+          "FacilityName": "CIMENTS CALCIA",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5333",
+          "ReportingYear": "2017",
+          "MTonnes": 0.335,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00058
         },
         "type": "Feature"
       },
@@ -5002,7 +5023,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "Ciments Calcia - Site d'Airvault",
+          "FacilityName": "Ciments Calcia - Site dAirvault",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=4907",
           "ReportingYear": "2017",
           "MTonnes": 0.562,
@@ -6085,7 +6106,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "Holcim Haut Rhin - Usine d'Altkirch",
+          "FacilityName": "Holcim Haut Rhin - Usine dAltkirch",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=4548",
           "ReportingYear": "2017",
           "MTonnes": 0.299,
@@ -6416,7 +6437,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "LAFARGE - USINE DU VAL D'AZERGUES",
+          "FacilityName": "LAFARGE - USINE DU VAL DAZERGUES",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=3020",
           "ReportingYear": "2017",
           "MTonnes": 0.274,
@@ -6949,7 +6970,7 @@
           "MTonnes": 0.539,
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO2, AIR",
-          "coAmount": 0.000572
+          "coAmount": 0.00104
         },
         "type": "Feature"
       },
@@ -7315,26 +7336,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            9.73046874793038,
-            48.3319862835618
-          ]
-        },
-        "properties": {
-          "CountryName": "Germany",
-          "FacilityName": "Schwenk Zement KG",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2516",
-          "ReportingYear": "2017",
-          "MTonnes": 0.712,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO2, AIR",
-          "coAmount": 0.000808
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             10.1624676707787,
             48.6536868285267
           ]
@@ -7348,6 +7349,26 @@
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO2, AIR",
           "coAmount": 0.00072
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.73046874793038,
+            48.3319862835618
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "Schwenk Zement KG",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2516",
+          "ReportingYear": "2017",
+          "MTonnes": 0.712,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.000808
         },
         "type": "Feature"
       },
@@ -7983,6 +8004,26 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            14.533667,
+            46.849888
+          ]
+        },
+        "properties": {
+          "CountryName": "Austria",
+          "FacilityName": "w&p Zement GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=301655",
+          "ReportingYear": "2017",
+          "MTonnes": 0.451,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00287
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             16.771682269444444,
             49.21641098888889
           ]
@@ -8089,6 +8130,25 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=7074",
           "ReportingYear": "2017",
           "MTonnes": 0.11,
+          "NACEMainEconomicActivityName": "Manufacture of lime and plaster",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.63725,
+            42.69604
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "CAL INDUSTRIAL, S.L",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=8990",
+          "ReportingYear": "2017",
+          "MTonnes": 0.133,
           "NACEMainEconomicActivityName": "Manufacture of lime and plaster",
           "PollutantName": "CO2, AIR"
         },
@@ -9460,8 +9520,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            12.1338669114199,
-            49.0340694139733
+            12.1387146232204,
+            49.0299521601137
           ]
         },
         "properties": {
@@ -9936,7 +9996,7 @@
           "FacilityName": "ArcelorMittal Bremen GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=43721",
           "ReportingYear": "2017",
-          "MTonnes": 26.6,
+          "MTonnes": 2.66,
           "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
           "PollutantName": "CO2, AIR",
           "coAmount": 0.0521
@@ -10130,7 +10190,7 @@
         },
         "properties": {
           "CountryName": "Belgium",
-          "FacilityName": "CARSID (Centrale d'énergie)",
+          "FacilityName": "CARSID (Centrale dénergie)",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=15102",
           "ReportingYear": "2008",
           "MTonnes": 0.983,
@@ -10396,7 +10456,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "FERROPEM - Usine d'Anglefort",
+          "FacilityName": "FERROPEM - Usine dAnglefort",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2903",
           "ReportingYear": "2017",
           "MTonnes": 0.24,
@@ -10699,8 +10759,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.8593505316353,
-            48.5121188672337
+            10.8601775008526,
+            48.5106659892612
           ]
         },
         "properties": {
@@ -11334,11 +11394,11 @@
           "CountryName": "Austria",
           "FacilityName": "voestalpine Stahl GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5868",
-          "ReportingYear": "2015",
-          "MTonnes": 8.64,
+          "ReportingYear": "2016",
+          "MTonnes": 8.6,
           "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
           "PollutantName": "CO2, AIR",
-          "coAmount": 0.0712
+          "coAmount": 0.076
         },
         "type": "Feature"
       },
@@ -11565,6 +11625,25 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=12834",
           "ReportingYear": "2017",
           "MTonnes": 0.137,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -5.7864,
+            54.845
+          ]
+        },
+        "properties": {
+          "CountryName": "United Kingdom",
+          "FacilityName": "AES Ballylumford",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=32954",
+          "ReportingYear": "2017",
+          "MTonnes": 0.97,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR"
         },
@@ -12587,26 +12666,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.279673,
-            39.677606
-          ]
-        },
-        "properties": {
-          "CountryName": "Spain",
-          "FacilityName": "CENTRAL DE CICLO COMBINADO DE SAGUNTO (NATURGY)",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24934",
-          "ReportingYear": "2017",
-          "MTonnes": 1.03,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR",
-          "coAmount": 0.000511
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             0.865002,
             40.960084
           ]
@@ -12800,8 +12859,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.1605,
-            41.33787
+            2.160452,
+            41.338591
           ]
         },
         "properties": {
@@ -12819,8 +12878,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.230815,
-            41.420462
+            2.230771,
+            41.421186
           ]
         },
         "properties": {
@@ -12838,8 +12897,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.229,
-            41.420108
+            2.228956,
+            41.420832
           ]
         },
         "properties": {
@@ -12858,8 +12917,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.231585,
-            41.42008
+            2.231541,
+            41.420804
           ]
         },
         "properties": {
@@ -13031,8 +13090,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -6.5325,
-            42.836667
+            -6.532453,
+            42.836796
           ]
         },
         "properties": {
@@ -15373,10 +15432,30 @@
           "CountryName": "Denmark",
           "FacilityName": "DONG ENERGY POWER A/S",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=9603",
-          "ReportingYear": "2016",
-          "MTonnes": 0.953,
+          "ReportingYear": "2017",
+          "MTonnes": 1.05,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.4837047156213,
+            55.6021225246373
+          ]
+        },
+        "properties": {
+          "CountryName": "Denmark",
+          "FacilityName": "DONG ENERGY POWER A/S, Avedøreværket",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=9893",
+          "ReportingYear": "2017",
+          "MTonnes": 0.337,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00185
         },
         "type": "Feature"
       },
@@ -16020,6 +16099,26 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -1.687775,
+            42.175109
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "EDP ESPAÑA, S.A.U.",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=7305",
+          "ReportingYear": "2017",
+          "MTonnes": 0.534,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.000754
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             13.799917,
             47.992332
           ]
@@ -16595,8 +16694,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -4.709444,
-            41.676944
+            -4.709634,
+            41.677037
           ]
         },
         "properties": {
@@ -16652,8 +16751,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.7995193321975,
-            48.4552020943074
+            11.7994456947988,
+            48.4553388532795
           ]
         },
         "properties": {
@@ -16796,6 +16895,25 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=7028",
           "ReportingYear": "2017",
           "MTonnes": 2.43,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.867777,
+            45.099166
+          ]
+        },
+        "properties": {
+          "CountryName": "Italy",
+          "FacilityName": "ENIPOWER SPA STABILIMENTO DI FERRERA ERBOGNONE",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=418",
+          "ReportingYear": "2017",
+          "MTonnes": 0.283,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR"
         },
@@ -17729,7 +17847,7 @@
         },
         "properties": {
           "CountryName": "Austria",
-          "FacilityName": "Energie AG Oberösterreich Kraftwerke GmbH",
+          "FacilityName": "Energie AG Oberösterreich Erzeugung GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5777",
           "ReportingYear": "2016",
           "MTonnes": 0.203,
@@ -17748,7 +17866,7 @@
         },
         "properties": {
           "CountryName": "Austria",
-          "FacilityName": "Energie AG Oberösterreich Kraftwerke GmbH",
+          "FacilityName": "Energie AG Oberösterreich Erzeugung GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5779",
           "ReportingYear": "2017",
           "MTonnes": 0.492,
@@ -18610,7 +18728,7 @@
           "MTonnes": 0.587,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR",
-          "coAmount": 0.00124
+          "coAmount": 0.00137
         },
         "type": "Feature"
       },
@@ -19114,8 +19232,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            9.14863055894871,
-            49.8274078496242
+            9.14808048104597,
+            49.8293962997416
           ]
         },
         "properties": {
@@ -19402,25 +19520,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            14.323611,
-            48.29889
-          ]
-        },
-        "properties": {
-          "CountryName": "Austria",
-          "FacilityName": "Linz Strom GmbH",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5806",
-          "ReportingYear": "2017",
-          "MTonnes": 0.524,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             14.346667,
             48.268055
           ]
@@ -19431,6 +19530,25 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5807",
           "ReportingYear": "2017",
           "MTonnes": 0.123,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.323611,
+            48.29889
+          ]
+        },
+        "properties": {
+          "CountryName": "Austria",
+          "FacilityName": "Linz Strom GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5806",
+          "ReportingYear": "2017",
+          "MTonnes": 0.524,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR"
         },
@@ -19816,6 +19934,45 @@
           "MTonnes": 0.285,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -5.85391,
+            43.549466
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "NATURGAS COGENERACIÓN, S.A.",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24460",
+          "ReportingYear": "2017",
+          "MTonnes": 0.315,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.279673,
+            39.677606
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "NATURGY GENERACION, SLU (NATURGY)",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24934",
+          "ReportingYear": "2017",
+          "MTonnes": 1.03,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.000511
         },
         "type": "Feature"
       },
@@ -21164,26 +21321,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            6.31457811541503,
-            50.8331620519569
-          ]
-        },
-        "properties": {
-          "CountryName": "Germany",
-          "FacilityName": "RWE Power AG",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=44118",
-          "ReportingYear": "2017",
-          "MTonnes": 19.1,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR",
-          "coAmount": 0.00976
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             6.59920108489932,
             51.0372235082785
           ]
@@ -21197,6 +21334,26 @@
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR",
           "coAmount": 0.00581
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.31457811541503,
+            50.8331620519569
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "RWE Power AG",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=44118",
+          "ReportingYear": "2017",
+          "MTonnes": 19.1,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR",
+          "coAmount": 0.00976
         },
         "type": "Feature"
       },
@@ -21915,25 +22072,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -5.85391,
-            43.549466
-          ]
-        },
-        "properties": {
-          "CountryName": "Spain",
-          "FacilityName": "SIDERGÁS",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24460",
-          "ReportingYear": "2017",
-          "MTonnes": 0.315,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             9.560559851386,
             56.201017159298
           ]
@@ -22621,25 +22759,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.867777,
-            45.099166
-          ]
-        },
-        "properties": {
-          "CountryName": "Italy",
-          "FacilityName": "Stabilimento di Ferrera Erbognone",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=418",
-          "ReportingYear": "2016",
-          "MTonnes": 2.75,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             8.53850691172961,
             52.0335206481402
           ]
@@ -22745,6 +22864,25 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=43802",
           "ReportingYear": "2017",
           "MTonnes": 1.04,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.43269578392638,
+            54.8048545092916
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "Stadtwerke Flensburg GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=104952",
+          "ReportingYear": "2017",
+          "MTonnes": 0.597,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR"
         },
@@ -23766,6 +23904,25 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            -0.781766,
+            53.3033
+          ]
+        },
+        "properties": {
+          "CountryName": "United Kingdom",
+          "FacilityName": "Uniper UK Limited",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=12987",
+          "ReportingYear": "2017",
+          "MTonnes": 0.696,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO2, AIR"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             -1.25426,
             52.866
           ]
@@ -23779,25 +23936,6 @@
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO2, AIR",
           "coAmount": 0.00126
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -0.781766,
-            53.3033
-          ]
-        },
-        "properties": {
-          "CountryName": "United Kingdom",
-          "FacilityName": "Uniper UK Limited",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=12987",
-          "ReportingYear": "2017",
-          "MTonnes": 0.696,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO2, AIR"
         },
         "type": "Feature"
       },
@@ -25057,7 +25195,8 @@
           "ReportingYear": "2017",
           "MTonnes": 0.000877,
           "NACEMainEconomicActivityName": "Manufacture of refined petroleum products",
-          "PollutantName": "CO, AIR"
+          "PollutantName": "CO, AIR",
+          "co2Amount": 2.29
         },
         "type": "Feature"
       },
@@ -25549,7 +25688,8 @@
           "ReportingYear": "2017",
           "MTonnes": 0.00778,
           "NACEMainEconomicActivityName": "Manufacture of other inorganic basic chemicals",
-          "PollutantName": "CO, AIR"
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.948
         },
         "type": "Feature"
       },
@@ -25915,8 +26055,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.99932,
-            41.407999
+            1.999262,
+            41.408723
           ]
         },
         "properties": {
@@ -25975,8 +26115,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            1.663095,
-            41.313945
+            1.663019,
+            41.314665
           ]
         },
         "properties": {
@@ -26014,8 +26154,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.545404,
-            40.578213
+            0.545266,
+            40.578911
           ]
         },
         "properties": {
@@ -26579,7 +26719,7 @@
         },
         "properties": {
           "CountryName": "France",
-          "FacilityName": "Ciments Calcia - Site d'Airvault",
+          "FacilityName": "Ciments Calcia - Site dAirvault",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=4907",
           "ReportingYear": "2017",
           "MTonnes": 0.00244,
@@ -26673,26 +26813,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            7.88782764054791,
-            52.1749858906752
-          ]
-        },
-        "properties": {
-          "CountryName": "Germany",
-          "FacilityName": "Dyckerhoff GmbH",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=44251",
-          "ReportingYear": "2017",
-          "MTonnes": 0.00216,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO, AIR",
-          "co2Amount": 1.11
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             8.03701249412367,
             49.6020260228561
           ]
@@ -26706,6 +26826,26 @@
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.683
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.88782764054791,
+            52.1749858906752
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "Dyckerhoff GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=44251",
+          "ReportingYear": "2017",
+          "MTonnes": 0.00216,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 1.11
         },
         "type": "Feature"
       },
@@ -27730,26 +27870,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            15.58,
-            46.74472
-          ]
-        },
-        "properties": {
-          "CountryName": "Austria",
-          "FacilityName": "Lafarge Zementwerke GmbH",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5866",
-          "ReportingYear": "2017",
-          "MTonnes": 0.00137,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO, AIR",
-          "co2Amount": 0.355
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             16.6,
             47.983334
           ]
@@ -27763,6 +27883,26 @@
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.596
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15.58,
+            46.74472
+          ]
+        },
+        "properties": {
+          "CountryName": "Austria",
+          "FacilityName": "Lafarge Zementwerke GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5866",
+          "ReportingYear": "2017",
+          "MTonnes": 0.00137,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.355
         },
         "type": "Feature"
       },
@@ -27839,7 +27979,7 @@
           "FacilityName": "Opterra Wössingen GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2484",
           "ReportingYear": "2017",
-          "MTonnes": 0.000572,
+          "MTonnes": 0.00104,
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.539
@@ -28170,26 +28310,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            9.73046874793038,
-            48.3319862835618
-          ]
-        },
-        "properties": {
-          "CountryName": "Germany",
-          "FacilityName": "Schwenk Zement KG",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2516",
-          "ReportingYear": "2017",
-          "MTonnes": 0.000808,
-          "NACEMainEconomicActivityName": "Manufacture of cement",
-          "PollutantName": "CO, AIR",
-          "co2Amount": 0.712
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             10.1624676707787,
             48.6536868285267
           ]
@@ -28203,6 +28323,26 @@
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.623
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.73046874793038,
+            48.3319862835618
+          ]
+        },
+        "properties": {
+          "CountryName": "Germany",
+          "FacilityName": "Schwenk Zement KG",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=2516",
+          "ReportingYear": "2017",
+          "MTonnes": 0.000808,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.712
         },
         "type": "Feature"
       },
@@ -28603,6 +28743,26 @@
           "NACEMainEconomicActivityName": "Manufacture of cement",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.38
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.533667,
+            46.849888
+          ]
+        },
+        "properties": {
+          "CountryName": "Austria",
+          "FacilityName": "w&p Zement GmbH",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=301655",
+          "ReportingYear": "2017",
+          "MTonnes": 0.00287,
+          "NACEMainEconomicActivityName": "Manufacture of cement",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.451
         },
         "type": "Feature"
       },
@@ -29350,7 +29510,7 @@
           "MTonnes": 0.0521,
           "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
           "PollutantName": "CO, AIR",
-          "co2Amount": 26.6
+          "co2Amount": 2.66
         },
         "type": "Feature"
       },
@@ -29545,25 +29705,6 @@
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=43601",
           "ReportingYear": "2017",
           "MTonnes": 0.000668,
-          "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
-          "PollutantName": "CO, AIR"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.502889,
-            47.534084
-          ]
-        },
-        "properties": {
-          "CountryName": "Austria",
-          "FacilityName": "Breitenfeld Edelstahl AG",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5840",
-          "ReportingYear": "2015",
-          "MTonnes": 0.000817,
           "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
           "PollutantName": "CO, AIR"
         },
@@ -29825,8 +29966,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.8593505316353,
-            48.5121188672337
+            10.8601775008526,
+            48.5106659892612
           ]
         },
         "properties": {
@@ -30067,7 +30208,7 @@
         },
         "properties": {
           "CountryName": "Spain",
-          "FacilityName": "SIDENOR INDUSTRIAL PLANTA DE REINOSA",
+          "FacilityName": "SIDENOR FORGINGS  y  CASTINGS Y SIDENOR ACEROS ESPECIALES S.L.U",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=8588",
           "ReportingYear": "2017",
           "MTonnes": 0.000864,
@@ -30498,11 +30639,11 @@
           "CountryName": "Austria",
           "FacilityName": "voestalpine Stahl GmbH",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=5868",
-          "ReportingYear": "2015",
-          "MTonnes": 0.0712,
+          "ReportingYear": "2016",
+          "MTonnes": 0.076,
           "NACEMainEconomicActivityName": "Manufacture of basic iron and steel and of ferro-alloys",
           "PollutantName": "CO, AIR",
-          "co2Amount": 8.64
+          "co2Amount": 8.6
         },
         "type": "Feature"
       },
@@ -30668,26 +30809,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.279673,
-            39.677606
-          ]
-        },
-        "properties": {
-          "CountryName": "Spain",
-          "FacilityName": "CENTRAL DE CICLO COMBINADO DE SAGUNTO (NATURGY)",
-          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24934",
-          "ReportingYear": "2017",
-          "MTonnes": 0.000511,
-          "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO, AIR",
-          "co2Amount": 1.03
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             -16.5512,
             28.40899
           ]
@@ -30748,8 +30869,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            2.229,
-            41.420108
+            2.228956,
+            41.420832
           ]
         },
         "properties": {
@@ -31139,7 +31260,8 @@
           "ReportingYear": "2017",
           "MTonnes": 0.00185,
           "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO, AIR"
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.337
         },
         "type": "Feature"
       },
@@ -31338,7 +31460,8 @@
           "ReportingYear": "2017",
           "MTonnes": 0.000754,
           "NACEMainEconomicActivityName": "Production of electricity",
-          "PollutantName": "CO, AIR"
+          "PollutantName": "CO, AIR",
+          "co2Amount": 0.534
         },
         "type": "Feature"
       },
@@ -31634,7 +31757,7 @@
           "FacilityName": "Huntstown Power Company Limited",
           "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=9506",
           "ReportingYear": "2017",
-          "MTonnes": 0.00124,
+          "MTonnes": 0.00137,
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.587
@@ -31798,6 +31921,26 @@
           "NACEMainEconomicActivityName": "Production of electricity",
           "PollutantName": "CO, AIR",
           "co2Amount": 0.219
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.279673,
+            39.677606
+          ]
+        },
+        "properties": {
+          "CountryName": "Spain",
+          "FacilityName": "NATURGY GENERACION, SLU (NATURGY)",
+          "FacilityDetails": "http://prtr.ec.europa.eu/#/facilitydetails?FacilityID=24934",
+          "ReportingYear": "2017",
+          "MTonnes": 0.000511,
+          "NACEMainEconomicActivityName": "Production of electricity",
+          "PollutantName": "CO, AIR",
+          "co2Amount": 1.03
         },
         "type": "Feature"
       },

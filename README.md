@@ -1,5 +1,16 @@
+# Changelog
+## 2020-Jan-27
+..* Corrected calculation for minimal CO availability.
+   In main.js the function *decideIfInVisibleCluster* used to contain a old (?) value for the minimal CO availability (15 kt instead of 13.5 kt)
+
+## 2020-Feb-07
+..* Updated the corrected data for plant "ArcelorMittal Bremen GmbH", due to data on E-PRTR website being wrong (noticed by FA).
+..* running *sparql.html*, subsequently updated *prtr.json*, as well as re-running *chemicalParkDistances.html* and lastly updating *emissions.json*
+
 # mapping
 The mapping activities from the Carbon4PUR project.
+
+This fork's site (by ddt-dechema) can be visited via [here]("https://ddt-dechema.github.io/mapping-dev/").
 
 # Workflow
 ## Emissions
